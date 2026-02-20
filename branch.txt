@@ -1,0 +1,1 @@
+Le concept git branch permet de créer des lignes de développement séparées.
