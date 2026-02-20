@@ -1,0 +1,1 @@
+Le concept git add sert à ajouter un fichier à la zone de staging.
